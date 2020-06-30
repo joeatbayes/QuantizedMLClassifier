@@ -1,6 +1,6 @@
 # Quantized Machine Learning Classifier #
 
-**This Project is [Currently Hosted on BitBucket](https://bitbucket.org/joexdobs/ml-classifier-gesture-recognition)**  
+**This Project is [Currently Hosted as Quantized Classifier](https://github.com/joeatbayes/quantized-classifier)**  
 
 The Quantized Classifier is a high performance,  high precision classifier built using knowledge I gained while working on classifiers to predict stock price movement over a period of several years.   For some data sets it delivers results equal or better than Deep Learning provided by Tensorflow while running faster and with fewer dependencies.
 
@@ -66,4 +66,4 @@ To ensure we have proper comparisons of the classification results I have writte
 
 You will have to install Tensorflow and TLearn dependencies on your own but I did include some links to help you get started.    Best of luck and I think it will be easier on linux than it was on Windows 10 for me.
 
-**This Project is [Currently Hosted on BitBucket](https://bitbucket.org/joexdobs/ml-classifier-gesture-recognition)**  
+**This Project is [Currently Hosted as Quantized Classifier](https://github.com/joeatbayes/quantized-classifier)**    
